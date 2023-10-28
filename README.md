@@ -1,7 +1,7 @@
 ### Hello. I'm Ridger.
 
 - 👀 interested in spiking neural network and natural language processing
-- 🌱 currently learning at UESTC
+- 🌱 currently learning at UC Santa Cruz
 - 📫 How to reach me [ridger@live.cn](mailto:ridger@live.cn)
 
 
