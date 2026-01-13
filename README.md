@@ -5,9 +5,4 @@
 [![](https://komarev.com/ghpvc/?username=ridgerchu&style=flat-square)](https://github.com/ridgerchu)
 
 
-- 👀 interested in spiking neural network and natural language processing
-- 🌱 currently learning at UC Santa Cruz, first-year Ph.D. student, supervised by [Prof. Jason Eshraghian](https://ncg.ucsc.edu/jason-eshraghian-bio/)
-- 📫 How to reach me [ridger@live.cn](mailto:ridger@live.cn)
-
-
 [![Ridger's GitHub stats](https://github-readme-stats.vercel.app/api?username=ridgerchu&show_icons=true&theme=tokyonight)](https://github.com/ridgerchu)
